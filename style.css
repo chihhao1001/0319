@@ -27,17 +27,17 @@ nav a:link  {
 nav a:hover {
     color: #EF5C5E;
 }
-.heroimg {
-    height: 250px;
-    background-image: url(W03-04/%E7%B7%B4%E7%BF%92/assets/hero.jpg);
-    background-size: cover;
-    background-position: 0% -213px;
-    border-radius: 30px;
-}
 article h3 {
     background-color: #D0D0D0;
     line-height: 40px;
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 10px;
+}
+.heroimg {
+    height: 250px;
+    background-image: url(hero.jpg);
+    background-position: center center;
+    border-radius: 30px;
+    background-size: cover;
 }
