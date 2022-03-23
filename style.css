@@ -34,8 +34,6 @@ article h3 {
     padding-right: 15px;
     border-radius: 10px;
 }
-.container header img {
-    text-align: center;
-    padding-right: 0%;
-    border-radius: 20px;
+header img {
+    border-radius: 24px;
 }
