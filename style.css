@@ -34,10 +34,8 @@ article h3 {
     padding-right: 15px;
     border-radius: 10px;
 }
-.heroimg {
-    height: 250px;
-    background-image: url(hero.jpg);
-    background-position: center center;
-    border-radius: 30px;
-    background-size: cover;
+.container header img {
+    text-align: center;
+    padding-right: 0%;
+    border-radius: 20px;
 }
